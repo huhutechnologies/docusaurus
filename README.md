@@ -63,5 +63,5 @@ export default {
 Infine il seguente comando per deployare
 
 ```bash
-CURRENT_BRANCH=main yarn deploy 
+yarn deploy 
 ```
