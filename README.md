@@ -63,7 +63,5 @@ export default {
 Infine il seguente comando per deployare
 
 ```bash
-GIT_USER=simostella yarn deploy 
+CURRENT_BRANCH=main yarn deploy 
 ```
-
-quando richiesta la password per git, usare il .githubtoken
